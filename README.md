@@ -10,3 +10,5 @@ The syntax is pretty straightforward. You can search for English or Japanese:
 
  - jisho hello
  - jisho こんにちわ
+
+![jisho screenshot](https://raw.githubusercontent.com/kylesezhi/alfred-jisho/master/jisho.gif "jisho screenshot")
